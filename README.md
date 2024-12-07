@@ -1,1 +1,2 @@
 # chatbot-Wajahni
+Le projet consiste à développer un chatbot intelligent, baptisé Wajahni, capable de guider les bacheliers tunisiens dans leur orientation universitaire en analysant leurs résultats du baccalauréat et en leur suggérant des programmes d'études adaptés à leurs profils. Le chatbot utilise des techniques avancées de traitement du langage naturel pour offrir des recommandations personnalisées en arabe et en anglais.
