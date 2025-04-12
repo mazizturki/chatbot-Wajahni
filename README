@@ -1,8 +1,8 @@
-# 🤖 chatbot-Wajahni
+#🤖 chatbot-Wajahni
 
 **Wajahni** est un chatbot intelligent destiné à aider les bacheliers tunisiens dans leur orientation universitaire.  
 Il analyse les résultats du baccalauréat pour recommander des programmes d’études adaptés au profil de chaque élève.
-## 🎯 Objectif du projet
+##🎯 Objectif du projet
 
 Développer une solution innovante qui :
 - Utilise le traitement du langage naturel (NLP) en arabe 🇹🇳 et en anglais 🇬🇧
@@ -11,7 +11,7 @@ Développer une solution innovante qui :
 
 ---
 
-## 🧠 Technologies utilisées
+##🧠 Technologies utilisées
 
 - **Python**
 - **Natural Language Processing (NLP)**
